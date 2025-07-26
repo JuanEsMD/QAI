@@ -15,3 +15,6 @@ Membros anteriores da eletrônica:
 - Clara Petrini
 - Vitor Thompson
 - Rodrigo Haruna
+
+
+Protótipo Inicial: https://www.tinkercad.com/things/eruCZM620oS-copy-of-qai-?sharecode=bIm4acO2jkPuT1NZEUbBVcIcb3kJUcw4d7_pTPhhKa0
