@@ -6,7 +6,7 @@ A origem do QAI remonta ao projeto do Estereli.easy, que surgiu devido ao contex
 
 Como projeto do ARGO, nosso objetivo é o desenvolvimento de produto(s) de impacto social (podendo seguir empreendedorismo social), mas realizando publicações científicas relevantes ao longo das etapas intermediárias para máximo aproveitamento. Um dos nossos desafios é seguir de fato a metodologia do Biodesign que não foi implementada nas primeiras “eras” do projeto.
 
-A equipe da eletrônica são responsáveis pela parte elétrica, arduino e programação. Área bem autônoma, fazem desde a ideação até a P&D. Podem auxiliar no tratamento de dados dos testes de qualidade do ar. Implementa circuitos, sensores e é responsável por automatizações.
+A equipe da eletrônica são responsáveis pela parte elétrica, microcontrolador e programação. Área bem autônoma, fazem desde a ideação até a P&D. Podem auxiliar no tratamento de dados dos testes de qualidade do ar. Implementa circuitos, sensores e é responsável por automatizações.
 
 Membros atuais da eletrônica:
 - Juan Estevão Mordente D'Angelo
